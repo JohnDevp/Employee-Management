@@ -3,6 +3,10 @@ This is an business employee management application developed under Java and Spr
 Used Maven as a software project management and comprehension tool to  manage the project's build, reporting and documentation.
 **Database:** MySQL Database.
 
+**Controller:** controller layer - process all the requests sent by the client, define all the REST APIs inside Controller. It processes these requests: GET, POST, PUT, DELETE. 
+**Service:** service layer - maintain business logics. Third party REST API call will be kept there as well. Building Setter and getter methods using REST API and check elements existence in the database.
+**Repository Layer:**  - responsible for the database. It stores all the database logic or persistence logic(how to store data). Anything involving storing data will be found in here.
+
 
 **EmployeeRepository**
 A  mechanism for encapsulating storage, retrieval, and search behavior which emulates a collection of objects. In our case, stores the employee information.
