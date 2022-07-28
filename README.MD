@@ -27,6 +27,5 @@ override bunch of methods such as saveEmployee, getEmployeeById, updateEmployee,
 
 CI/CD Pipeline Design
 ![1 drawio](https://user-images.githubusercontent.com/69872931/181630540-2f25f173-a23c-4aee-9921-68e39da663e7.png)
-
 AWS EC2 Service
 ![ec2](https://user-images.githubusercontent.com/69872931/181630587-144d8de7-4d79-4980-a20b-3aedc9c190b1.PNG)
