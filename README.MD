@@ -1,4 +1,5 @@
 This is an business employee management application developed under Java and Spring Framework.
+
 **Spring Boot Dependencies:** Spring web(build web application), Spring data jpa(deal with DAO layer, it is an abstract of jpa, it internally uses hibernate as JPA provider),
 Used Maven as a software project management and comprehension tool to  manage the project's build, reporting and documentation.
 **Database:** MySQL Database.
