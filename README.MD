@@ -30,3 +30,8 @@ CI/CD Pipeline Design
 
 AWS EC2 Service
 ![ec2](https://user-images.githubusercontent.com/69872931/181630587-144d8de7-4d79-4980-a20b-3aedc9c190b1.PNG)
+![ec22](https://user-images.githubusercontent.com/69872931/181632122-55444208-d488-4b19-8ba1-c9751da83b2f.jpg)
+
+Jenkins
+![jenkins](https://user-images.githubusercontent.com/69872931/181632162-f6a765f9-6c84-4216-939a-fb829874d51c.PNG)
+
