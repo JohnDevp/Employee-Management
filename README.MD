@@ -23,3 +23,9 @@ override bunch of methods such as saveEmployee, getEmployeeById, updateEmployee,
 ![MySQL](https://user-images.githubusercontent.com/69872931/179311445-9627f7bf-4e7b-4df9-8d5f-5f3c89570681.PNG)
 
 ![postman2](https://user-images.githubusercontent.com/69872931/179311449-b3f48d3a-6e31-4288-9bf6-221f88d23961.PNG)
+
+CI/CD Pipeline Design
+![1 drawio](https://user-images.githubusercontent.com/69872931/181630540-2f25f173-a23c-4aee-9921-68e39da663e7.png)
+
+AWS EC2 Service
+![ec2](https://user-images.githubusercontent.com/69872931/181630587-144d8de7-4d79-4980-a20b-3aedc9c190b1.PNG)
