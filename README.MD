@@ -1,4 +1,5 @@
-This is an business employee management application developed under Java and Spring Framework.
+This is an business employee management application developed under Java and Spring Framework. This is an business employee management application developed under Java and Spring Framework.
+The project involves the whole CI/CD automation process using Jenkins, virtual testing environment was provided by Docker as well as the cloud computing service through AWS EC2.
 
 **Spring Boot Dependencies:** Spring web(build web application), Spring data jpa(deal with DAO layer, it is an abstract of jpa, it internally uses hibernate as JPA provider),
 Used Maven as a software project management and comprehension tool to  manage the project's build, reporting and documentation.
